@@ -1,1 +1,1 @@
-# js-music-player
+![Vanilla JS Music Player](./images/readme.png)
